@@ -1,6 +1,6 @@
 streamlit
-gensim==4.2.0
 pandas
 numpy==1.21.6
 scipy==1.9.3
 matplotlib
+gensim
