@@ -1,5 +1,5 @@
-streamlit
-gensim==4.3.0
-numpy==1.24.3
-scipy==1.10.1
-Cython<3.0
+--no-build-isolation
+Cython==0.29.36
+numpy==1.21.6
+scipy==1.9.3
+gensim==4.2.0
